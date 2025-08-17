@@ -41,7 +41,7 @@ LINE_CHANNEL_SECRET=你的_LINE_Channel_Secret
 
 # Gemini AI 設定
 GEMINI_API_KEY=你的_Gemini_API_Key
-GEMINI_MODEL=gemini-1.5-flash
+GEMINI_MODEL=gemini-2.5-flash
 
 # 可選設定
 PORT=3000
