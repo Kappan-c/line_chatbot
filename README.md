@@ -210,29 +210,9 @@ curl -X POST http://localhost:3000/webhook
 - 🐍 [Flask 官方文檔](https://flask.palletsprojects.com/)
 - 🔗 [ngrok 使用指南](https://ngrok.com/docs)
 
-## 🔄 進階功能
-
-### 持久化儲存
-
-如需跨重啟保持記憶，可修改程式碼使用：
-
-- **Redis**：快速記憶體資料庫
-- **SQLite**：輕量級關聯式資料庫  
-- **檔案儲存**：JSON 或 pickle 格式
-
-### 擴展功能
-
-- 🎵 **語音處理**：整合語音轉文字
-- 📊 **數據分析**：對話統計和分析
-- 🔔 **推播訊息**：主動訊息推送
-- 🌐 **多語言支援**：國際化介面
-
----
 
 <div align="center">
 
-**🎉 歡迎貢獻和反饋！**
 
-如有問題請提交 Issue 或改進建議
 
 </div>
